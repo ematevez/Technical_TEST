@@ -1,8 +1,8 @@
-from rest_framework.serializers import ModelSerializer
+from rest_framework import serializers
 from post.models import Post
 
 
-class PostSerilizer(ModelSerializer):
+class PostSerializer(serializers.ModelSerializer):
     class Meta:
         model = Post
         fields = [ 'file', 'email']

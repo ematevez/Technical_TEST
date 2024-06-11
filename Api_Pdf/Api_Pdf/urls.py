@@ -8,7 +8,7 @@ from post.api.router import router_posts
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/', include(router_posts.urls)),
+    path('', include(router_posts.urls)),
     path('docs/', include_docs_urls(title= 'Api Documentation')),
     
 ]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
