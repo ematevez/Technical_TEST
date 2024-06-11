@@ -57,7 +57,10 @@ Subida de Archivos PDF
    Es importante tener en cuenta que si se visualiza la información en un smartphone u otro dispositivo, podrían mostrarse más líneas, 
    pero estas están seleccionadas en función del formato de la hoja configurada en el archivo PDF.
    
-![image](https://github.com/ematevez/Technical_TEST/assets/70983593/05bbea07-328a-4a39-8387-d9af59d0c754)
+![image](https://github.com/ematevez/Technical_TEST/assets/70983593/2cda4d0f-057b-4ce4-b81e-fa3f8df6668f)
+Consulta post
+![image](https://github.com/ematevez/Technical_TEST/assets/70983593/64a193c2-d4ae-4ea7-bf21-949a6c496272)
+Correo enviado
 
 Acerca del Desarrollador
 ¡Hola! Soy Emanuel Tevez, el desarrollador detrás de este proyecto. Si tienes alguna pregunta, sugerencia o simplemente quieres conectar, ¡no dudes en ponerte en contacto conmigo!
