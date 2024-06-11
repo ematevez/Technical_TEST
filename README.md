@@ -19,7 +19,7 @@ Este repositorio contiene un proyecto desarrollado como parte de una prueba téc
 
   Navega a la carpeta del proyecto:
 
-         cd Api_django
+         cd Api_Pdf
   
   Realiza las migraciones de la base de datos:
         
@@ -39,7 +39,11 @@ Ejecuta el servidor Django:
 
 Abre tu navegador web y accede a la siguiente URL para ver la documentación de la API:
 
-    http://127.0.0.1:8000/
+    http://127.0.0.1:8000/api/post
+
+Utiliza la documentación para probar y comprender las diferentes funcionalidades de la API (Falta completar).
+
+       http://127.0.0.1:8000/docs
 
 Descripcion del proyecto
    Este repositorio contiene un proyecto desarrollado como parte de una prueba técnica. 
@@ -52,6 +56,19 @@ Subida de Archivos PDF
 
    Es importante tener en cuenta que si se visualiza la información en un smartphone u otro dispositivo, podrían mostrarse más líneas, 
    pero estas están seleccionadas en función del formato de la hoja configurada en el archivo PDF.
+
+
+Consulta GET
+
+![alt text](image-1.png)
+
+Post 
+
+![alt text](image.png)
+
+Correo enviado 
+
+![alt text](image-2.png)
 
 Acerca del Desarrollador
 ¡Hola! Soy Emanuel Tevez, el desarrollador detrás de este proyecto. Si tienes alguna pregunta, sugerencia o simplemente quieres conectar, ¡no dudes en ponerte en contacto conmigo!
