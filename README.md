@@ -13,13 +13,9 @@ Este repositorio contiene un proyecto desarrollado como parte de una prueba téc
 ## Instalación de Django y Migraciones
   Asegúrate de tener Python y pip instalados en tu sistema.
 
-  Instala Django:
-      
-         pip install django
-
   Navega a la carpeta del proyecto:
 
-         cd Api_Pdf
+         cd Api_django
   
   Realiza las migraciones de la base de datos:
         
@@ -30,7 +26,7 @@ Este repositorio contiene un proyecto desarrollado como parte de una prueba téc
 
     Instala las dependencias del proyecto:
       
-      pip install -r requirements.txt
+         pip install -r requirements.txt
 
 Utilización de la API
 Ejecuta el servidor Django:
@@ -39,11 +35,7 @@ Ejecuta el servidor Django:
 
 Abre tu navegador web y accede a la siguiente URL para ver la documentación de la API:
 
-    http://127.0.0.1:8000/api/post
-
-Utiliza la documentación para probar y comprender las diferentes funcionalidades de la API (Falta completar).
-
-       http://127.0.0.1:8000/docs
+    http://127.0.0.1:8000/
 
 Descripcion del proyecto
    Este repositorio contiene un proyecto desarrollado como parte de una prueba técnica. 
