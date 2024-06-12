@@ -39,9 +39,10 @@ Abre tu navegador web y accede a la siguiente URL para ver la  API:
 
 Abre tu navegador web y accede a la siguiente URL para ver la documentación de la API (swagger):
 No se finalizo por que no tiene muchas funcionalidades.
-    http://127.0.0.1:8000/docs
+   
+      http://127.0.0.1:8000/docs
     
-    http://127.0.0.1:8000/redocs
+      http://127.0.0.1:8000/redocs
         
 
 ![alt text](image-3.png)
