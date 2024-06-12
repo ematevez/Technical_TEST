@@ -33,9 +33,20 @@ Ejecuta el servidor Django:
 
     python manage.py runserver
 
-Abre tu navegador web y accede a la siguiente URL para ver la documentación de la API:
+Abre tu navegador web y accede a la siguiente URL para ver la  API:
 
     http://127.0.0.1:8000/
+
+Abre tu navegador web y accede a la siguiente URL para ver la documentación de la API (swagger):
+No se finalizo por que no tiene muchas funcionalidades.
+    http://127.0.0.1:8000/docs
+    
+    http://127.0.0.1:8000/redocs
+        
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
 
 Descripcion del proyecto
    Este repositorio contiene un proyecto desarrollado como parte de una prueba técnica. 
