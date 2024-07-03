@@ -46,8 +46,8 @@ class Post_APIView(APIView):
     
     
     def enviar_correo(self, to_email, cuerpo):  # falta el contenido
-        email_sender = "ematevez@gmail.com"
-        password = "deftveqwynlicjbw"
+        email_sender = "xxxx@gmail.com"
+        password = "xxxxccccvvvvbbbb"
         mensaje = EmailMessage()
         mensaje['From'] = email_sender
         mensaje['To'] = to_email
